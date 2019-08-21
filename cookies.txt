@@ -1,0 +1,14 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://rarbgprx.org/torrents.php?category=2;14;15;16;17;21;22;42;18;19;41;27;28;29;30;31;32;40;23;24;25;26;33;34;43;44;45;46;47;48;49;50;51;52"
+#   2) curl --cookie cookies.txt "https://rarbgprx.org/torrents.php?category=2;14;15;16;17;21;22;42;18;19;41;27;28;29;30;31;32;40;23;24;25;26;33;34;43;44;45;46;47;48;49;50;51;52"
+#   3) aria2c --load-cookies cookies.txt "https://rarbgprx.org/torrents.php?category=2;14;15;16;17;21;22;42;18;19;41;27;28;29;30;31;32;40;23;24;25;26;33;34;43;44;45;46;47;48;49;50;51;52"
+#
+rarbgprx.org	FALSE	/	FALSE	1566783689	gaDts48g	q8h5pp9t
+rarbgprx.org	FALSE	/	FALSE	0		tcc
+rarbgprx.org	FALSE	/	FALSE	1566956489	aby	1
+rarbgprx.org	FALSE	/	FALSE	1566610876	skt	iqmfcdcwoz
+.rarbgprx.org	TRUE	/	FALSE	1566610876	skt	iqmfcdcwoz
+.rarbgprx.org	TRUE	/	FALSE	1566783676	gaDts48g	q8h5pp9t
+rarbgprx.org	FALSE	/	FALSE	1566351729	expla	4
