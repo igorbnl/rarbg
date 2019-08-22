@@ -1,1 +1,1 @@
-Scrappy movies from rarbg.is
+Shellscript desenvolvido para extrair dados do site rarbg.is.
